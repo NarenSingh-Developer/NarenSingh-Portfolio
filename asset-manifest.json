@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/NarenSingh-Portfolio/static/css/main.d50332c6.chunk.css",
-    "main.js": "/NarenSingh-Portfolio/static/js/main.27a44867.chunk.js",
-    "main.js.map": "/NarenSingh-Portfolio/static/js/main.27a44867.chunk.js.map",
+    "main.js": "/NarenSingh-Portfolio/static/js/main.4189f949.chunk.js",
+    "main.js.map": "/NarenSingh-Portfolio/static/js/main.4189f949.chunk.js.map",
     "runtime-main.js": "/NarenSingh-Portfolio/static/js/runtime-main.e28dbe27.js",
     "runtime-main.js.map": "/NarenSingh-Portfolio/static/js/runtime-main.e28dbe27.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/NarenSingh-Portfolio/static/css/2.ae9f1eb3.chunk.css",
@@ -15,7 +15,7 @@
     "static/media/Gmail.55b4d57d.png": "/NarenSingh-Portfolio/static/media/Gmail.55b4d57d.png",
     "static/media/Insta.40cab377.png": "/NarenSingh-Portfolio/static/media/Insta.40cab377.png",
     "static/media/Linkedin.804e2c07.png": "/NarenSingh-Portfolio/static/media/Linkedin.804e2c07.png",
-    "static/media/Naren Singh resume.643631cf.pdf": "/NarenSingh-Portfolio/static/media/Naren Singh resume.643631cf.pdf",
+    "static/media/Naren Singh resume.47dacc4f.pdf": "/NarenSingh-Portfolio/static/media/Naren Singh resume.47dacc4f.pdf",
     "static/media/WhatsApp.0e3d3cfc.jpg": "/NarenSingh-Portfolio/static/media/WhatsApp.0e3d3cfc.jpg",
     "static/media/App.css": "/NarenSingh-Portfolio/static/media/headerImg.4b51127c.svg",
     "static/media/undraw_buffer_wq43.c3707ce1.svg": "/NarenSingh-Portfolio/static/media/undraw_buffer_wq43.c3707ce1.svg",
@@ -27,6 +27,6 @@
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.f6d4c397.chunk.js",
     "static/css/main.d50332c6.chunk.css",
-    "static/js/main.27a44867.chunk.js"
+    "static/js/main.4189f949.chunk.js"
   ]
 }
